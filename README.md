@@ -10,7 +10,7 @@ Recuerda, **si algo es gratis el producto eres tu!**
 
 
 
-Mi agradecimiento a Nuria ([![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/nuria_imeq.svg?style=social&label=Follow%20%40nuria_imeq)](https://twitter.com/nuria_imeq/))  y Marc [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/cibernicola_es.svg?style=social&label=Follow%20%40cibernicola_es)](https://twitter.com/cibernicola_es/)) por su labor de difusión en temas de seguridad y por acercarnos de forma sencilla términos y técnicas complejas con las que lidiamos cotidianamente aunque no lo sepamos o queramos.
+Mi agradecimiento a Nuria [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/nuria_imeq.svg?style=social&label=Follow%20%40nuria_imeq)](https://twitter.com/nuria_imeq/)  y Marc [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/cibernicola_es.svg?style=social&label=Follow%20%40cibernicola_es)](https://twitter.com/cibernicola_es/) por su labor de difusión en temas de seguridad y por acercarnos de forma sencilla términos y técnicas complejas con las que lidiamos cotidianamente aunque no lo sepamos o queramos.
 
 
 
