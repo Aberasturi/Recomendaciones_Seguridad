@@ -18,10 +18,10 @@ Mi agradecimiento a Nuria [![Twitter URL](https://img.shields.io/twitter/url/htt
 
 
 
-- **No te fíes**. Nadie da duros a cuatro pesetas, si un príncipe nigeriano te pide algo desconfía, si una rusa te quiere conocer desconfía, si alguien te ofrece una inversión y hacer dinero a espuertas desconfía. Son timos como el toco-mocho pero actualizados. **Quieren tu dinero!**
+- **No te fíes**. Nadie da duros a cuatro pesetas, si un príncipe nigeriano te pide algo desconfía, si una rusa te quiere conocer desconfía, si alguien te ofrece una inversión y hacer dinero a espuertas desconfía. Son timos como el del tocomocho pero actualizados. **Quieren tu dinero!** o tus datos
 - **Usa varias cuentas de correo**. La dirección de correo que tienes asociada a tu banco nunca la uses para otras comunicaciones. Luego puedes tener tantas como lo consideres necesario, clasificalas por importancia. ¿Sabes que existe sitios que te asignan una cuenta de correo temporalmente? Prueba a buscar en Google: email temporal
 - **Activa 2FA o MFA**. El objetivo del doble factor de autenticación es que **NO SOLO** nos autentiquemos con un usuario y contraseña, sino que una vez introducidos nos pidan un código adicional que se puede enviar via sms (lo mas sencillo) o haciendo uso de aplicaciones que generan dicho código. [Ejemplos de como activar 2FA](#mfa-2fa)
-- **Usa un gestor de passwords**. Para evitar usar contraseñas repetidas o débiles. ¡OJO! normalmente para acceder a estos gestores tienes que establecer una contraseña y ésta sí debe ser complicada. Si el gestor tiene posibilidad de hacer un backup en la nube, descartalo. Menor hacerlo en tu ordenador o puedes subirlo a cualquier nube pero "camuflalo". [Ejemplos de gestores de passwords.](#gestor-de-passwords)
+- **Usa un gestor de passwords**. Para evitar usar contraseñas repetidas o débiles. ¡OJO! normalmente para acceder a estos gestores tienes que establecer una contraseña y ésta sí debe ser complicada. Si el gestor tiene posibilidad de hacer un backup en la nube, descartalo. Mejor hacerlo en tu ordenador o puedes subirlo a cualquier nube pero "camuflalo". [Ejemplos de gestores de passwords.](#gestor-de-passwords)
 - **Nunca des tu clave del banco a nadie** e incluso diciendo que son de tu banco y den muchos datos personales tuyos.
 - **No pinches en enlaces (no solicitados)** que te llegan por correo, mensajes de redes sociales (whatsapp, telegram, instagram,..).
 - **No contestes a teléfonos que no conozcas** (salvo cuando estas en la montaña!). [Link](https://mobile.twitter.com/cibernicola_es/status/1456360233618522120?t=jVr7HFF2MpG7O6YPM5COoA&s=03) de Marc 
@@ -37,7 +37,9 @@ Mi agradecimiento a Nuria [![Twitter URL](https://img.shields.io/twitter/url/htt
 
 - **Phishing. Suplantación de identidad**.
 
-  Phishing es un [término informático](https://es.wikipedia.org/wiki/Anexo:Jerga_informática) que distingue a un conjunto de técnicas que persiguen el engaño a una  víctima ganándose su confianza haciéndose pasar por una persona, empresa o servicio de confianza (suplantación de identidad de tercero de  confianza), para manipularla y hacer que realice acciones que no debería realizar (por ejemplo revelar información confidencial o hacer click en un enlace)
+  > Phishing es un término informático que distingue a un conjunto de técnicas que persiguen el engaño a una  víctima ganándose su confianza haciéndose pasar por una persona, empresa o servicio de confianza (suplantación de identidad de tercero de  confianza), para manipularla y hacer que realice acciones que no debería realizar (por ejemplo revelar información confidencial o hacer click en un enlace)
+  >
+  > https://es.wikipedia.org/wiki/Phishing
 
 - **MFA y 2FA**
 
@@ -52,6 +54,8 @@ Mi agradecimiento a Nuria [![Twitter URL](https://img.shields.io/twitter/url/htt
   > Es el método más extendido en la actualidad  para acceder a cuentas de correo como las de iCloud o Gmail, pero  generalmente se solicita que el usuario active voluntariamente esta capa de protección adicional.
 
   > Un ejemplo de la vida cotidiana de este tipo de autenticación es  la retirada de efectivo de un cajero automático. Solo tras combinar una  tarjeta de crédito —algo que el usuario posee— y un pin —algo que el  usuario sabe— se permite que la transacción se lleve a cabo.
+  >
+  > https://es.wikipedia.org/wiki/Autenticaci%C3%B3n_de_m%C3%BAltiples_factores
 
 
 
