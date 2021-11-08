@@ -4,9 +4,13 @@
 
 El siguiente documento trata de recoger una serie de recomendaciones a tener en cuenta desde el punto de vista de seguridad para evitar estafas, robo de identidades digitales (Facebook, Instagram, Twitter,...),...
 
-Esta orientado a una **audiencia NO tecnica**.
+Esta orientado a una **audiencia NO técnica**.
 
 Recuerda, **si algo es gratis el producto eres tu!**
+
+
+
+Mi agradecimiento a Nuria (@nuria_imeq)  y Marc (@cibernicola_es) por su labor de difusión en temas de seguridad y por acercarnos de forma sencilla términos y técnicas complejas con las que lidiamos cotidianamente aunque no lo sepamos o queramos.
 
 
 
@@ -16,13 +20,13 @@ Recuerda, **si algo es gratis el producto eres tu!**
 
 - **No te fíes**. Nadie da duros a cuatro pesetas, si un príncipe nigeriano te pide algo desconfía, si una rusa te quiere conocer desconfía, si alguien te ofrece una inversión y hacer dinero a espuertas desconfía. Son timos como el toco-mocho pero actualizados. **Quieren tu dinero!**
 - **Usa varias cuentas de correo**. Una puede ser personal y otra para subscripciones o darte de alta en sitios.
-- **Activa 2FA**. El objetivo del doble factor de autenticación es que **NO SOLO** nos autentiquemos con un usuario y contraseña, sino que una vez introducidos nos pidan un código adicional que se puede enviar via sms (lo mas sencillo) o haciendo uso de aplicaciones que generan dicho código.
-- **Usa un gestor de passwords**. Para evitar usar contraseñas repetidas o débiles.
+- **Activa 2FA o MFA**. El objetivo del doble factor de autenticación es que **NO SOLO** nos autentiquemos con un usuario y contraseña, sino que una vez introducidos nos pidan un código adicional que se puede enviar via sms (lo mas sencillo) o haciendo uso de aplicaciones que generan dicho código. [Ejemplos de como activar 2FA](#mfa-2fa)
+- **Usa un gestor de passwords**. Para evitar usar contraseñas repetidas o débiles. [Ejemplos de gestores de passwords.](#gestor-de-passwords)
 - **Nunca des tu clave del banco a nadie** e incluso diciendo que son de tu banco y den muchos datos personales tuyos.
 - **No pinches en enlaces (no solicitados)** que te llegan por correo, mensajes de redes sociales (whatsapp, telegram, instagram,..).
-- **No contestes a teléfonos que no conozcas** (salvo cuando estas en la montaña!). [Link](https://twitter.com/cibernicola_es/status/1456360233618522120?t=jVr7HFF2MpG7O6YPM5COoA&s=03) de Marc 
+- **No contestes a teléfonos que no conozcas** (salvo cuando estas en la montaña!). [Link](https://mobile.twitter.com/cibernicola_es/status/1456360233618522120?t=jVr7HFF2MpG7O6YPM5COoA&s=03) de Marc 
 - **Mira la barra del navegador cuando te conectes a sitios**. Los navegadores actuales verifican los certificados digitales de los sitios web. La conexión debe ser segura HTTPS, esto se ve porque tiene un candado en la barra de navegacion. **OJO MUY IMPORTANTE**, que tenga candado no quiere decir que el sitio sea legitimo!
-- **Usa tarjetas virtuales**. Los bancos actuales permite disponer de tarjetas virtuales. Las tarjetas virtuales son tarjetas de un solo uso y por un importe, de forma que en caso de estafa no se tienen datos reales.
+- **Usa tarjetas virtuales**. Los bancos actuales permite disponer de tarjetas virtuales. Las tarjetas virtuales son tarjetas de un solo uso y por un importe, de forma que en caso de estafa no se tienen datos reales. [Ejemplos de tarjetas virtuales de bancos.](#tarjetas-virtuales)
 
 
 
@@ -56,8 +60,9 @@ Recuerda, **si algo es gratis el producto eres tu!**
 
 
 
-- https://www.incibe.es/
-- https://www.osi.es/es
+- [Instituto Nacional de Ciberseguridad](https://www.incibe.es/)
+- [Oficina de seguridad del Internauta](https://www.osi.es/es)
+- [Zibersegurtasun Euskal Zentroa](https://www.basquecybersecurity.eus/eu/index.html)
 
 
 
@@ -71,6 +76,16 @@ Recuerda, **si algo es gratis el producto eres tu!**
 - https://www.xatakandroid.com/seguridad/aplicaciones-autenticacion-dos-pasos-que-como-funcionan-mejores-opciones
 
 
+
+**Habilitar 2FA**
+
+- [Twitter](https://help.twitter.com/es/managing-your-account/two-factor-authentication)
+
+- [Instagram](https://help.instagram.com/1124604297705184)
+- [Facebook](https://m.facebook.com/help/148233965247823?locale2=es_ES )
+- [TikTok](https://www.tiktok.com/safety/youth-portal/keep-your-account-secure?lang=es)
+- [Linkedin](https://www.linkedin.com/help/linkedin/answer/31700/activar-y-desactivar-la-verificacion-en-dos-etapas?lang=es)
+- [EPIC Games - Fortnite](https://www.epicgames.com/fortnite/es-MX/news/2fa )
 
 
 
