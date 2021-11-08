@@ -19,7 +19,7 @@ Mi agradecimiento a Nuria [![Twitter URL](https://img.shields.io/twitter/url/htt
 
 
 - **No te fíes**. Nadie da duros a cuatro pesetas, si un príncipe nigeriano te pide algo desconfía, si una rusa te quiere conocer desconfía, si alguien te ofrece una inversión y hacer dinero a espuertas desconfía. Son timos como el toco-mocho pero actualizados. **Quieren tu dinero!**
-- **Usa varias cuentas de correo**. Una puede ser personal y otra para subscripciones o darte de alta en sitios.
+- **Usa varias cuentas de correo**. La dirección de correo que tienes asociada a tu banco nunca la uses para otras comunicaciones. Luego puedes tener tantas como lo consideres necesario, clasificalas por importancia. ¿Sabes que existe sitios que te asignan una cuenta de correo temporalmente? Prueba a buscar en Google: email temporal
 - **Activa 2FA o MFA**. El objetivo del doble factor de autenticación es que **NO SOLO** nos autentiquemos con un usuario y contraseña, sino que una vez introducidos nos pidan un código adicional que se puede enviar via sms (lo mas sencillo) o haciendo uso de aplicaciones que generan dicho código. [Ejemplos de como activar 2FA](#mfa-2fa)
 - **Usa un gestor de passwords**. Para evitar usar contraseñas repetidas o débiles. [Ejemplos de gestores de passwords.](#gestor-de-passwords)
 - **Nunca des tu clave del banco a nadie** e incluso diciendo que son de tu banco y den muchos datos personales tuyos.
