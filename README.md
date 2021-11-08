@@ -21,13 +21,14 @@ Mi agradecimiento a Nuria [![Twitter URL](https://img.shields.io/twitter/url/htt
 - **No te fíes**. Nadie da duros a cuatro pesetas, si un príncipe nigeriano te pide algo desconfía, si una rusa te quiere conocer desconfía, si alguien te ofrece una inversión y hacer dinero a espuertas desconfía. Son timos como el toco-mocho pero actualizados. **Quieren tu dinero!**
 - **Usa varias cuentas de correo**. La dirección de correo que tienes asociada a tu banco nunca la uses para otras comunicaciones. Luego puedes tener tantas como lo consideres necesario, clasificalas por importancia. ¿Sabes que existe sitios que te asignan una cuenta de correo temporalmente? Prueba a buscar en Google: email temporal
 - **Activa 2FA o MFA**. El objetivo del doble factor de autenticación es que **NO SOLO** nos autentiquemos con un usuario y contraseña, sino que una vez introducidos nos pidan un código adicional que se puede enviar via sms (lo mas sencillo) o haciendo uso de aplicaciones que generan dicho código. [Ejemplos de como activar 2FA](#mfa-2fa)
-- **Usa un gestor de passwords**. Para evitar usar contraseñas repetidas o débiles. [Ejemplos de gestores de passwords.](#gestor-de-passwords)
+- **Usa un gestor de passwords**. Para evitar usar contraseñas repetidas o débiles. ¡OJO! normalmente para acceder a estos gestores tienes que establecer una contraseña y ésta sí debe ser complicada. Si el gestor tiene posibilidad de hacer un backup en la nube, descartalo. Menor hacerlo en tu ordenador o puedes subirlo a cualquier nube pero "camuflalo". [Ejemplos de gestores de passwords.](#gestor-de-passwords)
 - **Nunca des tu clave del banco a nadie** e incluso diciendo que son de tu banco y den muchos datos personales tuyos.
 - **No pinches en enlaces (no solicitados)** que te llegan por correo, mensajes de redes sociales (whatsapp, telegram, instagram,..).
 - **No contestes a teléfonos que no conozcas** (salvo cuando estas en la montaña!). [Link](https://mobile.twitter.com/cibernicola_es/status/1456360233618522120?t=jVr7HFF2MpG7O6YPM5COoA&s=03) de Marc 
 - **Mira la barra del navegador cuando te conectes a sitios**. Los navegadores actuales verifican los certificados digitales de los sitios web. La conexión debe ser segura HTTPS, esto se ve porque tiene un candado en la barra de navegacion. **OJO MUY IMPORTANTE**, que tenga candado no quiere decir que el sitio sea legitimo!
 - **Usa tarjetas virtuales**. Los bancos actuales permite disponer de tarjetas virtuales. Las tarjetas virtuales son tarjetas de un solo uso y por un importe, de forma que en caso de estafa no se tienen datos reales. [Ejemplos de tarjetas virtuales de bancos.](#tarjetas-virtuales)
-
+- **Subir ficheros y fotos a la nube**. La mayoría de las aplicaciones de móvil te permiten subir fotos y ficheros a la nube. Piensa que toda esa información se la estás dando a las empresas pero si tienes un problema de seguridad, los ciberdelincuentes han obtenido tu clave, ellos tambíen tendrán acceso a ellas. 
+- **Renueva los accesos a tus APPs**. Normalemte accedemos a las RRSS y cuentas de correo mediante las aplicaciones móvil. Los ciberdelincuentes pueden obtener la "llave" de acceso ( token ) y por lo tanto podrán entrar a esos sitios. De vez en cuando cierra las aplicaciones y vuelve a entrar.
 
 
 ## Glosario
