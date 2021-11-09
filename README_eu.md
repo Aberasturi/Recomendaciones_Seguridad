@@ -2,7 +2,7 @@
 
 
 
-[Gaztelania<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg/320px-Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg.png" alt="Gaztelania" style="zoom:10%;" />](./README.md) | [Katalana<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Catalonia_in_PNG.png/320px-Flag_of_Catalonia_in_PNG.png" alt="Katalan" style="zoom:10%;" />](./README_ca.md) | [Euskera<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_Basque_Country.svg/320px-Flag_of_the_Basque_Country.svg.png" alt="Euskera" style="zoom:10%;" />](./README_eu.md) |  [Galiziar<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/320px-Flag_of_Galicia.svg.png" alt="Galiziar" style="zoom:10%;" />](./README_gl.md) 
+[Gaztelania<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg/320px-Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg.png" alt="Gaztelania" width="40" height="20"/>](./README.md) | [Katalana<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Catalonia_in_PNG.png/320px-Flag_of_Catalonia_in_PNG.png" alt="Katalan" width="40" height="20"/>](./README_ca.md) | [Euskera<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_Basque_Country.svg/320px-Flag_of_the_Basque_Country.svg.png" alt="Euskera" width="40" height="20"/>](./README_eu.md) |  [Galiziar<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/320px-Flag_of_Galicia.svg.png" alt="Galiziar" width="40" height="20"/>](./README_gl.md) 
 
 
 
