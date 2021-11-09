@@ -2,6 +2,10 @@
 
 
 
+[Castellano<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg/320px-Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg.png" alt="Castellano" style="zoom:10%;" />](./README.md) | [Catalan<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Catalonia_in_PNG.png/320px-Flag_of_Catalonia_in_PNG.png" alt="Catalan" style="zoom:10%;" />](./README_ca.md) | [Euskera<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_Basque_Country.svg/320px-Flag_of_the_Basque_Country.svg.png" alt="Euskera" style="zoom:10%;" />](./README_eu.md) |  [Gallego<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/320px-Flag_of_Galicia.svg.png" alt="Gallego" style="zoom:10%;" />](./README_gl.md) 
+
+
+
 El siguiente documento trata de recoger una serie de recomendaciones a tener en cuenta desde el punto de vista de seguridad para evitar estafas, robo de identidades digitales (Facebook, Instagram, Twitter,...),...
 
 Esta orientado a una **audiencia NO técnica**.
