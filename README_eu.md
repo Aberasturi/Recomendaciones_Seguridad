@@ -79,7 +79,7 @@ Eskerrak eman nahi dizkiet Nuria[![Twitter URL](https://img.shields.io/twitter/u
 
 
 
-## Referencias
+## Erreferentziak
 
 
 
