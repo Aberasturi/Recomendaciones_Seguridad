@@ -32,7 +32,7 @@ Mi agradecimiento a Nuria [![Twitter URL](https://img.shields.io/twitter/url/htt
 - **Mira la barra del navegador cuando te conectes a sitios**. Los navegadores actuales verifican los certificados digitales de los sitios web. La conexión debe ser segura HTTPS, esto se ve porque tiene un candado en la barra de navegacion. **OJO MUY IMPORTANTE**, que tenga candado no quiere decir que el sitio sea legitimo!
 - **Usa tarjetas virtuales**. Los bancos actuales permite disponer de tarjetas virtuales. Las tarjetas virtuales son tarjetas de un solo uso y por un importe, de forma que en caso de estafa no se tienen datos reales. [Ejemplos de tarjetas virtuales de bancos.](#tarjetas-virtuales)
 - **Subir ficheros y fotos a la nube**. La mayoría de las aplicaciones de móvil te permiten subir fotos y ficheros a la nube. Piensa que toda esa información se la estás dando a las empresas pero si tienes un problema de seguridad, los ciberdelincuentes han obtenido tu clave, ellos tambíen tendrán acceso a ellas. 
-- **Renueva los accesos a tus APPs**. Normalemte accedemos a las RRSS y cuentas de correo mediante las aplicaciones móvil. Los ciberdelincuentes pueden obtener la "llave" de acceso ( token ) y por lo tanto podrán entrar a esos sitios. De vez en cuando cierra las aplicaciones y vuelve a entrar.
+- **Renueva los accesos a tus APPs**. Normalmente accedemos a las RRSS y cuentas de correo mediante las aplicaciones móvil. Los ciberdelincuentes pueden obtener la "llave" de acceso ( token ) y por lo tanto podrán entrar a esos sitios. De vez en cuando cierra las aplicaciones y vuelve a entrar.
 
 
 ## Glosario
